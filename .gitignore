@@ -1,0 +1,12 @@
+# Gradle
+.gradle/
+build/
+bin/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Local machine settings
+local.properties
+run/
