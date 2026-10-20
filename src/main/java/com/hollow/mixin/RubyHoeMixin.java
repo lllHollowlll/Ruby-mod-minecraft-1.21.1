@@ -47,7 +47,13 @@ public class RubyHoeMixin {
 		for (ItemStack drop : originalDrops) {
 			ItemStack copy = drop.copy();
 
-			if (drop.isOf(Items.POTATO)) {
+			if (drop.isOf(Items.POTATO)
+					|| drop.isOf(Items.CARROT)
+					|| drop.isOf(Items.WHEAT)
+					|| drop.isOf(Items.BEETROOT)
+					|| drop.isOf(Items.NETHER_WART)
+					|| drop.isOf(Items.MELON)
+					|| drop.isOf(Items.PUMPKIN)) {
 				copy.setCount(copy.getCount() * 2);
 			}
 
