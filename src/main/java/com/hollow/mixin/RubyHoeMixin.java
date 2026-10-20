@@ -51,9 +51,7 @@ public class RubyHoeMixin {
 					|| drop.isOf(Items.CARROT)
 					|| drop.isOf(Items.WHEAT)
 					|| drop.isOf(Items.BEETROOT)
-					|| drop.isOf(Items.NETHER_WART)
-					|| drop.isOf(Items.MELON)
-					|| drop.isOf(Items.PUMPKIN)) {
+					|| drop.isOf(Items.NETHER_WART)) {
 				copy.setCount(copy.getCount() * 2);
 			}
 
