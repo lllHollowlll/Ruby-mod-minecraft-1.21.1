@@ -17,10 +17,15 @@ public class ItemGroups {
                     .icon(() -> new ItemStack(Items.RUBY))
                     .displayName(Text.translatable("itemGroup.ruby-mod.ruby_group"))
                     .entries((context, entries) -> {
-                        entries.add(Items.RUBY);
+                        entries.add(Items.RUBY_BLOCK);
                         entries.add(Items.RUBY_ORE_ITEM);
                         entries.add(Items.DEEPSLATE_RUBY_ORE_ITEM);
-                        entries.add(Items.RUBY_BLOCK);
+                        entries.add(Tools.RUBY_SHOVEL);
+                        entries.add(Tools.RUBY_PICKAXE);
+                        entries.add(Tools.RUBY_AXE);
+                        entries.add(Tools.RUBY_HOE);
+                        entries.add(Tools.RUBY_SWORD);
+                        entries.add(Items.RUBY);
                     })
             .build()
     );
