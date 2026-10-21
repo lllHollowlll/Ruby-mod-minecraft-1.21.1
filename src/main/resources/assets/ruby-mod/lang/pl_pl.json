@@ -1,0 +1,13 @@
+{
+  "itemGroup.ruby-mod.ruby_group": "Modyfikacja Rubin",
+  "item.ruby-mod.ruby": "Rubin",
+  "item.ruby-mod.ruby_shovel": "Rubinowa łopata",
+  "item.ruby-mod.ruby_pickaxe": "Rubinowy kilof",
+  "item.ruby-mod.ruby_axe": "Rubinowa siekiera",
+  "item.ruby-mod.ruby_hoe": "Rubinowa motyka",
+  "item.ruby-mod.ruby_sword": "Rubinowy miecz",
+  "enchantment.ruby-mod.tunneling": "Drążenie tuneli",
+  "block.ruby-mod.ruby_ore": "Ruda rubinu",
+  "block.ruby-mod.deepslate_ruby_ore": "Głębokołupkowa ruda rubinu",
+  "block.ruby-mod.ruby_block": "Blok rubinu"
+}

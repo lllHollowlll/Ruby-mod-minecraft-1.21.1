@@ -1,5 +1,6 @@
 package com.hollow;
 
+import com.hollow.loot.ModLootTables;
 import com.hollow.registry.Blocks;
 import com.hollow.registry.Items;
 import com.hollow.registry.ItemGroups;
@@ -31,6 +32,7 @@ public class RubyMod implements ModInitializer {
 		ItemGroups.initialize();
 		ModOreGeneration.initialize();
 		Tools.initialize();
+		ModLootTables.initialize();
 	}
 
 	public static Identifier id(String path) {

@@ -1,0 +1,13 @@
+{
+  "itemGroup.ruby-mod.ruby_group": "Mod de Rubi",
+  "item.ruby-mod.ruby": "Rubi",
+  "item.ruby-mod.ruby_shovel": "Pá de Rubi",
+  "item.ruby-mod.ruby_pickaxe": "Picareta de Rubi",
+  "item.ruby-mod.ruby_axe": "Machado de Rubi",
+  "item.ruby-mod.ruby_hoe": "Enxada de Rubi",
+  "item.ruby-mod.ruby_sword": "Espada de Rubi",
+  "enchantment.ruby-mod.tunneling": "Escavação",
+  "block.ruby-mod.ruby_ore": "Minério de Rubi",
+  "block.ruby-mod.deepslate_ruby_ore": "Minério de Rubi de Ardósia",
+  "block.ruby-mod.ruby_block": "Bloco de Rubi"
+}

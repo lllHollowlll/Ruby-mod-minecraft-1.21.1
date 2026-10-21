@@ -1,0 +1,13 @@
+{
+  "itemGroup.ruby-mod.ruby_group": "Mod Rubi",
+  "item.ruby-mod.ruby": "Rubi",
+  "item.ruby-mod.ruby_shovel": "Sekop Rubi",
+  "item.ruby-mod.ruby_pickaxe": "Beliung Rubi",
+  "item.ruby-mod.ruby_axe": "Kapak Rubi",
+  "item.ruby-mod.ruby_hoe": "Cangkul Rubi",
+  "item.ruby-mod.ruby_sword": "Pedang Rubi",
+  "enchantment.ruby-mod.tunneling": "Penggalian Terowongan",
+  "block.ruby-mod.ruby_ore": "Bijih Rubi",
+  "block.ruby-mod.deepslate_ruby_ore": "Bijih Rubi Batu Sabak Dalam",
+  "block.ruby-mod.ruby_block": "Blok Rubi"
+}

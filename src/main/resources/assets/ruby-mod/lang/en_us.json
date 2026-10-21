@@ -1,0 +1,16 @@
+{
+  "itemGroup.ruby-mod.ruby_group": "Ruby Mod",
+
+  "item.ruby-mod.ruby": "Ruby",
+  "item.ruby-mod.ruby_shovel": "Ruby Shovel",
+  "item.ruby-mod.ruby_pickaxe": "Ruby Pickaxe",
+  "item.ruby-mod.ruby_axe": "Ruby Axe",
+  "item.ruby-mod.ruby_hoe": "Ruby Hoe",
+  "item.ruby-mod.ruby_sword": "Ruby Sword",
+
+  "enchantment.ruby-mod.tunneling": "Tunneling",
+
+  "block.ruby-mod.ruby_ore": "Ruby Ore",
+  "block.ruby-mod.deepslate_ruby_ore": "Deepslate Ruby Ore",
+  "block.ruby-mod.ruby_block": "Block of Ruby"
+}

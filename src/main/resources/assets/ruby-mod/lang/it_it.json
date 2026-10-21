@@ -1,0 +1,13 @@
+{
+  "itemGroup.ruby-mod.ruby_group": "Mod Rubino",
+  "item.ruby-mod.ruby": "Rubino",
+  "item.ruby-mod.ruby_shovel": "Pala di rubino",
+  "item.ruby-mod.ruby_pickaxe": "Piccone di rubino",
+  "item.ruby-mod.ruby_axe": "Ascia di rubino",
+  "item.ruby-mod.ruby_hoe": "Zappa di rubino",
+  "item.ruby-mod.ruby_sword": "Spada di rubino",
+  "enchantment.ruby-mod.tunneling": "Scavo",
+  "block.ruby-mod.ruby_ore": "Minerale di rubino",
+  "block.ruby-mod.deepslate_ruby_ore": "Minerale di rubino in ardesia profonda",
+  "block.ruby-mod.ruby_block": "Blocco di rubino"
+}

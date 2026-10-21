@@ -1,0 +1,13 @@
+{
+  "itemGroup.ruby-mod.ruby_group": "루비 모드",
+  "item.ruby-mod.ruby": "루비",
+  "item.ruby-mod.ruby_shovel": "루비 삽",
+  "item.ruby-mod.ruby_pickaxe": "루비 곡괭이",
+  "item.ruby-mod.ruby_axe": "루비 도끼",
+  "item.ruby-mod.ruby_hoe": "루비 괭이",
+  "item.ruby-mod.ruby_sword": "루비 검",
+  "enchantment.ruby-mod.tunneling": "터널 굴착",
+  "block.ruby-mod.ruby_ore": "루비 광석",
+  "block.ruby-mod.deepslate_ruby_ore": "심층암 루비 광석",
+  "block.ruby-mod.ruby_block": "루비 블록"
+}

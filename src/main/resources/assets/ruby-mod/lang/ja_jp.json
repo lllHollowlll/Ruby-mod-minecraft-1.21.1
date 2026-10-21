@@ -1,0 +1,13 @@
+{
+  "itemGroup.ruby-mod.ruby_group": "ルビーモッド",
+  "item.ruby-mod.ruby": "ルビー",
+  "item.ruby-mod.ruby_shovel": "ルビーのシャベル",
+  "item.ruby-mod.ruby_pickaxe": "ルビーのツルハシ",
+  "item.ruby-mod.ruby_axe": "ルビーの斧",
+  "item.ruby-mod.ruby_hoe": "ルビーのクワ",
+  "item.ruby-mod.ruby_sword": "ルビーの剣",
+  "enchantment.ruby-mod.tunneling": "トンネル掘削",
+  "block.ruby-mod.ruby_ore": "ルビー鉱石",
+  "block.ruby-mod.deepslate_ruby_ore": "深層ルビー鉱石",
+  "block.ruby-mod.ruby_block": "ルビーブロック"
+}

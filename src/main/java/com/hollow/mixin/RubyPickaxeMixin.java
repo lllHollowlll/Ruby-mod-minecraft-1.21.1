@@ -130,8 +130,8 @@ public abstract class RubyPickaxeMixin {
         if (first.isIn(BlockTags.COPPER_ORES))
             return second.isIn(BlockTags.COPPER_ORES);
 
-        if (first.isIn(BlockTags.GOLD_ORES))
-            return second.isIn(BlockTags.GOLD_ORES);
+        if (isGoldOre(first))
+            return isGoldOre(second);
 
         if (first.isIn(BlockTags.DIAMOND_ORES))
             return second.isIn(BlockTags.DIAMOND_ORES);
@@ -155,5 +155,11 @@ public abstract class RubyPickaxeMixin {
         }
 
         return false;
+    }
+
+    @Unique
+    private static boolean isGoldOre(BlockState state) {
+        return state.isIn(BlockTags.GOLD_ORES)
+                || state.isOf(net.minecraft.block.Blocks.NETHER_GOLD_ORE);
     }
 }

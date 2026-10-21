@@ -1,0 +1,13 @@
+{
+  "itemGroup.ruby-mod.ruby_group": "Rubin-Mod",
+  "item.ruby-mod.ruby": "Rubin",
+  "item.ruby-mod.ruby_shovel": "Rubinschaufel",
+  "item.ruby-mod.ruby_pickaxe": "Rubinspitzhacke",
+  "item.ruby-mod.ruby_axe": "Rubinaxt",
+  "item.ruby-mod.ruby_hoe": "Rubinhacke",
+  "item.ruby-mod.ruby_sword": "Rubinschwert",
+  "enchantment.ruby-mod.tunneling": "Tunneln",
+  "block.ruby-mod.ruby_ore": "Rubinerz",
+  "block.ruby-mod.deepslate_ruby_ore": "Tiefenschiefer-Rubinerz",
+  "block.ruby-mod.ruby_block": "Rubinblock"
+}

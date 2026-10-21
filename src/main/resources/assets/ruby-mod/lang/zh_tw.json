@@ -1,0 +1,16 @@
+{
+  "itemGroup.ruby-mod.ruby_group": "紅寶石模組",
+
+  "item.ruby-mod.ruby": "紅寶石",
+  "item.ruby-mod.ruby_shovel": "紅寶石鏟",
+  "item.ruby-mod.ruby_pickaxe": "紅寶石鎬",
+  "item.ruby-mod.ruby_axe": "紅寶石斧",
+  "item.ruby-mod.ruby_hoe": "紅寶石鋤",
+  "item.ruby-mod.ruby_sword": "紅寶石劍",
+
+  "enchantment.ruby-mod.tunneling": "隧道挖掘",
+
+  "block.ruby-mod.ruby_ore": "紅寶石礦石",
+  "block.ruby-mod.deepslate_ruby_ore": "深層紅寶石礦石",
+  "block.ruby-mod.ruby_block": "紅寶石方塊"
+}

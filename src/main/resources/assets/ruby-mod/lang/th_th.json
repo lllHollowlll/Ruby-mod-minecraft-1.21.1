@@ -1,0 +1,13 @@
+{
+  "itemGroup.ruby-mod.ruby_group": "ม็อดทับทิม",
+  "item.ruby-mod.ruby": "ทับทิม",
+  "item.ruby-mod.ruby_shovel": "พลั่วทับทิม",
+  "item.ruby-mod.ruby_pickaxe": "พลั่วขุดทับทิม",
+  "item.ruby-mod.ruby_axe": "ขวานทับทิม",
+  "item.ruby-mod.ruby_hoe": "จอบทับทิม",
+  "item.ruby-mod.ruby_sword": "ดาบทับทิม",
+  "enchantment.ruby-mod.tunneling": "ขุดอุโมงค์",
+  "block.ruby-mod.ruby_ore": "แร่ทับทิม",
+  "block.ruby-mod.deepslate_ruby_ore": "แร่ทับทิมในหินชนวนลึก",
+  "block.ruby-mod.ruby_block": "บล็อกทับทิม"
+}

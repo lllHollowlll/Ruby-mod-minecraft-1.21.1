@@ -1,0 +1,13 @@
+{
+  "itemGroup.ruby-mod.ruby_group": "Мод на рубіни",
+  "item.ruby-mod.ruby": "Рубін",
+  "item.ruby-mod.ruby_shovel": "Рубінова лопата",
+  "item.ruby-mod.ruby_pickaxe": "Рубінова кирка",
+  "item.ruby-mod.ruby_axe": "Рубінова сокира",
+  "item.ruby-mod.ruby_hoe": "Рубінова мотика",
+  "item.ruby-mod.ruby_sword": "Рубіновий меч",
+  "enchantment.ruby-mod.tunneling": "Прокладання тунелів",
+  "block.ruby-mod.ruby_ore": "Рубінова руда",
+  "block.ruby-mod.deepslate_ruby_ore": "Рубінова руда глибинного сланцю",
+  "block.ruby-mod.ruby_block": "Блок рубіну"
+}

@@ -1,0 +1,13 @@
+{
+  "itemGroup.ruby-mod.ruby_group": "Yakut Modu",
+  "item.ruby-mod.ruby": "Yakut",
+  "item.ruby-mod.ruby_shovel": "Yakut Kürek",
+  "item.ruby-mod.ruby_pickaxe": "Yakut Kazma",
+  "item.ruby-mod.ruby_axe": "Yakut Balta",
+  "item.ruby-mod.ruby_hoe": "Yakut Çapa",
+  "item.ruby-mod.ruby_sword": "Yakut Kılıcı",
+  "enchantment.ruby-mod.tunneling": "Tünel Kazma",
+  "block.ruby-mod.ruby_ore": "Yakut Cevheri",
+  "block.ruby-mod.deepslate_ruby_ore": "Derin Kayrakta Yakut Cevheri",
+  "block.ruby-mod.ruby_block": "Yakut Bloğu"
+}

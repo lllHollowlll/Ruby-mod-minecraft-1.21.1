@@ -1,0 +1,13 @@
+{
+  "itemGroup.ruby-mod.ruby_group": "Mod Rubis",
+  "item.ruby-mod.ruby": "Rubis",
+  "item.ruby-mod.ruby_shovel": "Pelle en rubis",
+  "item.ruby-mod.ruby_pickaxe": "Pioche en rubis",
+  "item.ruby-mod.ruby_axe": "Hache en rubis",
+  "item.ruby-mod.ruby_hoe": "Houe en rubis",
+  "item.ruby-mod.ruby_sword": "Épée en rubis",
+  "enchantment.ruby-mod.tunneling": "Excavation",
+  "block.ruby-mod.ruby_ore": "Minerai de rubis",
+  "block.ruby-mod.deepslate_ruby_ore": "Minerai de rubis des abîmes",
+  "block.ruby-mod.ruby_block": "Bloc de rubis"
+}
