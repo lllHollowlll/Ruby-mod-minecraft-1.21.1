@@ -1,0 +1,11 @@
+{
+  "_comment": "EFICIENCIA",
+  "replace": false,
+  "values": [
+    "ruby-mod:ruby_hoe",
+    "ruby-mod:ruby_pickaxe",
+    "ruby-mod:ruby_shovel",
+    "ruby-mod:ruby_axe"
+  ]
+}
+
