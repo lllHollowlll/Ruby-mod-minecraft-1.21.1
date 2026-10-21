@@ -1,10 +1,7 @@
 package com.hollow;
 
 import com.hollow.loot.ModLootTables;
-import com.hollow.registry.Blocks;
-import com.hollow.registry.Items;
-import com.hollow.registry.ItemGroups;
-import com.hollow.registry.Tools;
+import com.hollow.registry.*;
 import com.hollow.worldgen.ModOreGeneration;
 
 import net.fabricmc.api.ModInitializer;
@@ -33,6 +30,7 @@ public class RubyMod implements ModInitializer {
 		ModOreGeneration.initialize();
 		Tools.initialize();
 		ModLootTables.initialize();
+		Trades.initialize();
 	}
 
 	public static Identifier id(String path) {
